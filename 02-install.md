@@ -37,7 +37,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why? How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+I installed Windows 64-Bit Python 2.7 Graphical Installer...it seemed like the most logical choice.
 
 ---
 
